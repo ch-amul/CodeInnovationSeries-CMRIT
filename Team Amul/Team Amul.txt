@@ -1,0 +1,16 @@
+Project Documentation:
+
+Project Name: Smart Education Using AI
+Team Name : Amul Team
+
+Description of the Project : Our Project is based on providing Smart Education to students from rural areas using AI. The technologies we will be using is Deep Convolutional Neural Netwroks to properly undersatnad the sensibilities of teh user and then use recommednder systems to provide them better education ...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+Contents of the Project :
+
+->Website
+->Databses
+->Analtyics
+
+Hosting the Project:
+
+since the project works on real time implementation. We are looking forward to implement our project on Cloud with benefits of using serverless computing power of AWS lambda .
